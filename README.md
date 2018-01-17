@@ -1,4 +1,6 @@
 # Rbg
+![rbg](https://user-images.githubusercontent.com/13756917/35031319-3d008280-fb17-11e7-964f-22b027d81ebd.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
